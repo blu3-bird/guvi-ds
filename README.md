@@ -1,8 +1,6 @@
 # 📊 Data Science in Python – Practice & Notes
 
-This repository contains my **personal notes, practice code, and experiments** while learning Data Science in Python through the **HCL GUVI course**.
-
-> ⚠️ This is a **private learning repository** and may contain incomplete, experimental, or unpolished code.
+This repository contains my **personal notes, practice code, assignments, and experiments** while learning Data Science in Python through the **HCL GUVI course**.
 
 ---
 
@@ -12,7 +10,7 @@ This repository contains my **personal notes, practice code, and experiments** w
   Key concepts, explanations, and summaries from the course
 
 - 🧪 **Practice Code**  
-  Hands-on implementations of topics learned
+  Hands-on implementations of topics learned and Codekata Problems.
 
 - 📊 **Experiments**  
   Trying out different approaches, models, and ideas
@@ -21,7 +19,8 @@ This repository contains my **personal notes, practice code, and experiments** w
 
 ## 🚀 Topics Covered
 
-- Python for Data Science  
+- Python for Data Science 
+- SQL 
 - Data Preprocessing  
 - Data Visualization  
 - Linear Regression  
@@ -40,15 +39,6 @@ This repo is created to:
 - Reinforce learning by practicing concepts
 - Track my progress throughout the course
 - Build a strong foundation in data science
-
----
-
-## 🧠 Note
-
-This repository is mainly for **learning and experimentation**, so:
-- Code may not be optimized
-- Some notebooks may be incomplete
-- Structure may evolve over time
 
 ---
 
