@@ -25,5 +25,6 @@ Thumbs.db
 # Optional: Uncomment to ignore data files
 # *.csv
 # *.xlsx
-# *.json
-# *.pkl
+*.json
+file.txt
+*.pkl
