@@ -1,10 +1,8 @@
---- PRACTICE_EXERCISES.md (原始)
+--- PRACTICE_EXERCISES.md 
 
 
-+++ PRACTICE_EXERCISES.md (修改后)
++++ PRACTICE_EXERCISES.md
 # 📚 Comprehensive Practice Exercises - Data Science Python Revision
-
-Based on your repository, I've created practice exercises covering **all the concepts** you've learned. These are organized by topic for effective revision.
 
 ---
 
