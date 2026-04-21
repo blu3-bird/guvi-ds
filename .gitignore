@@ -1,30 +1,58 @@
-# Jupyter
-.ipynb_checkpoints
-*.ipynb_temp
-
-# Python
+# 🐍 Python
 __pycache__/
 *.py[cod]
+*$py.class
 *.so
-venv/
-env/
-.venv/
+*.egg
 *.egg-info/
+dist/
+build/
 
-# IDEs
+# 🌿 Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# 🤖 Linters & Formatters
+.ruff_cache/
+.ruff-cache/
+.mypy_cache/
+.pytest_cache/
+
+# 📓 Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb~
+.~lock.*.ipynb#
+
+# 🧪 Testing & Coverage
+.coverage
+htmlcov/
+*.log
+
+# 🤖 IDE & Editors
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
 
-# OS
+# 💻 OS Files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Environment
-.env
-
-# Optional: Uncomment to ignore data files
-# *.csv
-# *.xlsx
-file.txt
-*.json
+# 📦 Data & ML Artifacts (Keep small samples, ignore large/temp files)
+data/
+*.csv
+*.parquet
 *.pkl
+*.joblib
+models/
+checkpoints/
+
+# 🔒 Secrets & Config
+.env
+.env.local
+*.pem
+*.key
