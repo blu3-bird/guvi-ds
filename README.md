@@ -17,6 +17,53 @@ This repository contains my **personal notes, practice code, assignments, and ex
 
 ---
 
+## Folder Structure
+
+```
+guvi-ds/
+├── .github/
+│   └── workflows/
+│       └── python-ci.yml
+├── mysql/
+│   ├── class1/
+│   │   └── module.ipynb
+│   └── resources/
+│       └── pdfs/
+│           └── sqlForDummies.pdf
+├── python/
+│   ├── class4/
+│   │   └── notebook/
+│   │       ├── main.ipynb
+│   │       └── module.ipynb
+│   ├── class5/
+│   │   ├── assignment.ipynb
+│   │   ├── module.ipynb
+│   │   └── module1.ipynb
+│   ├── class6/
+│   │   └── notebook/
+│   │       └── module.ipynb
+│   └── Practice/
+│       ├── codekataPractice/
+│       │   ├── easy-problems/
+│       │   │   ├── day7.ipynb
+│       │   │   └── practice.ipynb
+│       │   └── medium-problems/
+│       │       ├── day10.ipynb
+│       │       ├── day7.ipynb
+│       │       └── day9.ipynb
+│       └── dsaPractice/
+│           ├── exercises/
+│           │   ├── exercise1.md
+│           │   └── practiceExercises.md
+│           └── notebooks/
+│               ├── exercise1.ipynb
+│               └── practiceExercises.ipynb
+├── .gitignore
+├── README.md
+└── requirements.txt
+
+```
+
 ## 🚀 Topics Covered
 
 - Python for Data Science 
